@@ -1,0 +1,11 @@
+# Config files
+.prettierrc
+
+# Backend Node Files
+backend/package-lock.json
+
+# Backend Node Folders
+backend/node_modules
+
+# Backend config files and folder
+backend/config/.env
